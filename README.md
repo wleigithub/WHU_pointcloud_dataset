@@ -1,5 +1,7 @@
 # WHU_pointcloud_dataset
 
+![WHU MLS point cloud](https://github.com/wleigithub/WHU_pointcloud_dataset/blob/master/whu_MLS.png)
+
 You can download our free point cloud of Wuhan University with:
 sh download_data.sh
 
